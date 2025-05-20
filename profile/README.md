@@ -1,6 +1,6 @@
 <!-- Banner Placeholder -->
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/2175f7f9-7d55-470d-9c62-964f1ede66d1" alt="TT-Decomp Banner" />
+  <img src="https://github.com/user-attachments/assets/2175f7f9-7d55-470d-9c62-964f1ede66d1" alt="TT-Decomp Banner" />
 </p>
 
 # TT-Decomp
