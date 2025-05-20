@@ -1,6 +1,6 @@
 <!-- Banner Placeholder -->
 <p align="center">
-  ![ttd](https://github.com/user-attachments/assets/2175f7f9-7d55-470d-9c62-964f1ede66d1)
+  [ttd](https://github.com/user-attachments/assets/2175f7f9-7d55-470d-9c62-964f1ede66d1)
 </p>
 
 # TT-Decomp
